@@ -1,0 +1,58 @@
+id: 0c96fefdc1e4476bbf86ca1ef749771a
+annotation_type: index
+revision: '00001'
+annotations:
+  124e1e925be04de88c22b4228449c0fe:
+    work_id: WE4595155
+    span:
+      vol: Colophon
+      start: 0
+      end: 191
+  1cfe158300dd4ea1901a4431d0e7d616:
+    work_id: W1A471ACC
+    span:
+      vol: DHARAṆĪPADA OF ŚAKRA DEVĀNĀMINDRA
+      start: 0
+      end: 660
+  bec5e4e5e08149158b26438a94efe2e6:
+    work_id: WF1DF2549
+    span:
+      vol: DHĀRAṆĪPADA OF GUHYAPATI VAJRAPĀṆI
+      start: 0
+      end: 661
+  bb94bbdfd7434580bb3588cdbc8db6eb:
+    work_id: W3C01FC01
+    span:
+      vol: Preface
+      start: 0
+      end: 1190
+  6b386a685c4b4b589c7dba38689270fe:
+    work_id: WB967EBE2
+    span:
+      vol: THE DHARAṆĪMANTRAPADA OF THE FOUR GREAT KINGS
+      start: 0
+      end: 769
+  25b0cb9bb198443fbc3cb1911381e5dc:
+    work_id: W77824EFF
+    span:
+      vol: THE DHĀRAṆĪMANTRAPADA OF BRAHMĀ SAHAMPATI
+      start: 0
+      end: 531
+  fdffad4f23a94c0096f6dd56510c7928:
+    work_id: W52715DCE
+    span:
+      vol: THE MANTRA SPOKEN BY ĀRYA AVALOKITEŚVARA
+      start: 0
+      end: 650
+  8f19cd39d4e04b59967bf9e77e5cf398:
+    work_id: W23F91951
+    span:
+      vol: THE NĀGA KINGS
+      start: 0
+      end: 1819
+  3099870a416c4ed5bae01b43b24dd3ea:
+    work_id: W5D32263D
+    span:
+      vol: Title
+      start: 0
+      end: 152
